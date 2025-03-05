@@ -1,0 +1,4 @@
+Flask
+sumy
+nltk
+transformers
