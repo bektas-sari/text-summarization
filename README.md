@@ -118,7 +118,7 @@ This project is licensed under the **MIT License** - you are free to use and mod
 ## ⭐ Contact
 For any issues or suggestions, feel free to reach out:
 📧 **Email:** bektas.sari@gmail.com
-🌐 **GitHub:** [Your GitHub Profile](https://github.com/bektas-sari)
+🌐 **GitHub:** [https://github.com/bektas-sari]
 
 **If you liked this project, give it a ⭐ on GitHub!**
 
