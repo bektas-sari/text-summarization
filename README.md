@@ -116,9 +116,14 @@ This project is licensed under the **MIT License** - you are free to use and mod
 ---
 
 ## ⭐ Contact
-For any issues or suggestions, feel free to reach out:
-📧 **Email:** bektas.sari@gmail.com
-🌐 **GitHub:** [https://github.com/bektas-sari]
 
-**If you liked this project, give it a ⭐ on GitHub!**
+**Bektaş Sarı**<br>
+PhD in Advertising, AI + Creativity researcher<br>
+Flutter Developer & Software Educator<br>
+
+- **Email:** [bektas.sari@gmail.com](mailto:bektas.sari@gmail.com)  
+- **GitHub:** [github.com/bektas-sari](https://github.com/bektas-sari)  
+- **LinkedIn:** [linkedin.com/in/bektas-sari](https://www.linkedin.com/in/bektas-sari)  
+- **Researchgate:** [researchgate.net/profile/Bektas-Sari-3](https://www.researchgate.net/profile/Bektas-Sari-3)  
+- **Academia:** [independent.academia.edu/bektassari](https://independent.academia.edu/bektassari)
 
